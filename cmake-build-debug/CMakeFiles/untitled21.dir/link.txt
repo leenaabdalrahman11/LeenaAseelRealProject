@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/untitled21.dir/main.c.o CMakeFiles/untitled21.dir/player.c.o CMakeFiles/untitled21.dir/referee.c.o -o untitled21  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so 

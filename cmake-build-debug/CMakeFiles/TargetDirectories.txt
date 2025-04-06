@@ -1,0 +1,3 @@
+/mnt/c/Users/leena/untitled21/cmake-build-debug/CMakeFiles/GameMatch.dir
+/mnt/c/Users/leena/untitled21/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/leena/untitled21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
